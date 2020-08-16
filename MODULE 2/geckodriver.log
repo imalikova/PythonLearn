@@ -1,0 +1,9 @@
+1595111230099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1m/4v4m0blj0bs0lr1hglhc90l40000gq/T/rust_mozprofileJHXo5p"
+1595111235362	Marionette	INFO	Listening on port 62850
+1595256063865	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595256456254	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595258623132	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595328335628	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595334708914	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595343567319	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1595344784095	Marionette	INFO	Stopped listening on port 62850
